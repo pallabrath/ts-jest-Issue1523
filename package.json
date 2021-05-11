@@ -20,7 +20,7 @@
   "dependencies": {
     "typescript": "^3.7.4",
     "grafana-sdk-mocks": "git+https://github.com/grafana/grafana-sdk-mocks.git",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@types/jest": "^25.2.1",
